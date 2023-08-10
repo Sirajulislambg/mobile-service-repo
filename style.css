@@ -1,0 +1,46 @@
+.color-gradiant {
+  background-image: linear-gradient(90deg, blue, rgb(245, 8, 205));
+}
+
+.tnww {
+  height: 100px;
+  width: 100px;
+}
+
+.banner-text-midde-part{
+    background-color: blue;
+    color: aliceblue;
+}
+
+.card img{
+  width: 100%;
+  height: 150px;
+
+}
+
+.img-web-design img{
+  height: 300px;
+}
+
+.download{
+  text-decoration: none;
+}
+
+.stop-writting{
+  background-image: url(img/background.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-blend-mode: overlay;
+  height: 100vh;
+  color: aliceblue;
+}
+
+.app-service{
+  background-color: blue;
+}
+
+.footer{
+  background-color: black;
+  height: 30vh;
+}
